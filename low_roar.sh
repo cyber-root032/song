@@ -1,5 +1,5 @@
 #!/bin/bash
-#Just a song
+#Just a song ♪
 echo "Welcome $USER  let's sing "
 echo "**Low Roar - Anything you need**"
 sleep 6
